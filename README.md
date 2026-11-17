@@ -28,4 +28,5 @@ DME Helper only reads public data. It doesn't log in to IVAO and doesn't collect
 ## Data sources
 
 Weather from [aviationweather.gov](https://aviationweather.gov/), network data from the public IVAO API, map tiles from Esri.
+
 join out community: https://discord.gg/TrqJDYxyEW note this is a Russian community
